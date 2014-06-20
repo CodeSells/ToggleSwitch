@@ -1,5 +1,5 @@
 /*!
-	Toggle Switch 1.0.0 - 2014-06-19
+	Toggle Switch 1.0.1 - 2014-06-19
 	jQuery Toggle Button
 	(c) 2014, http://tinytools.codesells.com
 	license: http://www.opensource.org/licenses/mit-license.php
